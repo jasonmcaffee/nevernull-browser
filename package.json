@@ -1,0 +1,24 @@
+{
+  "name": "nevernull-browser",
+  "version": "1.0.0",
+  "description": "nevernull for the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "NODE_ENV=production babel src --out-dir lib --source-maps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonmcaffee/nevernull-browser.git"
+  },
+  "author": "jason mcaffee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonmcaffee/nevernull-browser/issues"
+  },
+  "homepage": "https://github.com/jasonmcaffee/nevernull-browser#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "babili": "0.0.8"
+  }
+}
