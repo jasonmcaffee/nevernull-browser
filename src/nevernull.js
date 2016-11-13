@@ -2162,7 +2162,7 @@
     }
 
 // function-as-module pattern
-}(this));
+}(this || window));
 
 
 /**
