@@ -2162,7 +2162,7 @@
     }
 
 // function-as-module pattern
-}(typeof exports !== 'undefined' ? global : this));
+}(this));
 
 
 /**
