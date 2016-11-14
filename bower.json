@@ -1,5 +1,5 @@
 {
-  "name": "nevernull-browser",
+  "name": "nevernull",
   "description": "nevernull for the browser",
   "main": "/lib/nevernull.js",
   "authors": [

@@ -36,6 +36,11 @@ nnPerson.employer.name();   // == undefined
 nn(person).address.city()   // == undefined
 ```
 
+## Install
+### Bower
+```
+bower install nevernull
+```
 ## Tests
 To see the tests run in a browser, go [here](https://rawgit.com/jasonmcaffee/nevernull-browser/master/test.html)
 
