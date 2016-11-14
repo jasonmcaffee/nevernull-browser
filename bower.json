@@ -1,0 +1,17 @@
+{
+  "name": "nevernull-browser",
+  "description": "nevernull for the browser",
+  "main": "/lib/nevernull.js",
+  "authors": [
+    "jason mcaffee"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jasonmcaffee/nevernull-browser",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
