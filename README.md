@@ -38,6 +38,7 @@ nn(person).address.city()   // == undefined
 
 ## Install
 ### Bower
+Project using nevernull from bower install can be seen [here](https://codio.com/jasonmcaffee/nevernull-browser-test)
 ```
 bower install nevernull
 ```
